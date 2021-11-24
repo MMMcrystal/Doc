@@ -1,8 +1,8 @@
-# new
+# new 页面
 
 - [ ] foo
 - bar
 - [x] baz
-- [] bam <~ not working
+- [ ] bam <~ not working
   - [ ] bim
   - [ ] lim

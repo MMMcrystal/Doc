@@ -9,4 +9,4 @@
 - 一些使用技巧
 
 [我的 GitHub](https://github.com/MMMcrystal/)
-[Get Started](doc/test)
+[测试页面](doc/test)

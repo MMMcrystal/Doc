@@ -1,11 +1,3 @@
-# Headline
+# 我的文档库
 
-# Heading level 1
-
-> An awesome project.
-
-# Heading level 2
-
-## Heading level 2-1
-
-> An awesome project.
+> 该文档用于记录一些经验和奇思妙想。
